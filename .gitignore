@@ -1,3 +1,7 @@
 BooksApi\Properties\launchSettings.json
 BooksApi\appSettings.Development.json
 BooksApi\appSettings.json
+
+**/bin/
+**/obj/
+
