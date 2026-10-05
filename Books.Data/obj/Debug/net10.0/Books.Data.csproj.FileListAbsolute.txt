@@ -1,0 +1,14 @@
+D:\Playground\CSharp\Books_App\Books.Data\bin\Debug\net10.0\Books.Data.deps.json
+D:\Playground\CSharp\Books_App\Books.Data\bin\Debug\net10.0\Books.Data.dll
+D:\Playground\CSharp\Books_App\Books.Data\bin\Debug\net10.0\Books.Data.pdb
+D:\Playground\CSharp\Books_App\Books.Data\obj\Debug\net10.0\Books.Data.csproj.AssemblyReference.cache
+D:\Playground\CSharp\Books_App\Books.Data\obj\Debug\net10.0\Books.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Playground\CSharp\Books_App\Books.Data\obj\Debug\net10.0\Books.Data.AssemblyInfoInputs.cache
+D:\Playground\CSharp\Books_App\Books.Data\obj\Debug\net10.0\Books.Data.AssemblyInfo.cs
+D:\Playground\CSharp\Books_App\Books.Data\obj\Debug\net10.0\Books.Data.csproj.CoreCompileInputs.cache
+D:\Playground\CSharp\Books_App\Books.Data\obj\Debug\net10.0\Books.Data.dll
+D:\Playground\CSharp\Books_App\Books.Data\obj\Debug\net10.0\refint\Books.Data.dll
+D:\Playground\CSharp\Books_App\Books.Data\obj\Debug\net10.0\Books.Data.pdb
+D:\Playground\CSharp\Books_App\Books.Data\obj\Debug\net10.0\ref\Books.Data.dll
+D:\Playground\CSharp\Books_App\Books.Data\bin\Debug\net10.0\Books.Data.runtimeconfig.json
+D:\Playground\CSharp\Books_App\Books.Data\obj\Debug\net10.0\Books.Data.genruntimeconfig.cache
